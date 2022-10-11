@@ -1,2 +1,2 @@
 #!/bin/bash
-clt a+v
+ls -t 1
